@@ -1,4 +1,4 @@
-# SkaehuB Bootcamp
+# Skaehub Bootcamp
 
 Assignment 5 Day 5
 
