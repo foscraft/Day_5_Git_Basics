@@ -26,8 +26,13 @@ that isn't a git repository)
 
 
 ![First commit git log screenshot](./first.png)
-**Fig 1: First commit git log screenshot**
+*Fig 1: First commit git log screenshot*
 
 ![Second commit git log screenshot](./second.png)
-**Fig 2: Second commit git log screenshot**
+*Fig 2: Second commit git log screenshot*
 
+
+### Creating an SSH Key
+
+![SSH key authentication screenshot](./third.png)
+*Fig 3: SSH key authentication screenshot*
